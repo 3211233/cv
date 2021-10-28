@@ -185,7 +185,7 @@ table, th, td {
 }
 
 
-  <img class="Clarks" src="images/Clarks.png" alt="Some Donations">
-  <img src="images/Food.png" alt="Amount of food collected">
-  <img src="images/Group.png" alt="Our Team">
-  <img src="images/homelessman.png" alt="">
+img {
+  height: 650px;
+  width: 700px;
+}
